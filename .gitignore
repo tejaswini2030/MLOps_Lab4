@@ -1,0 +1,6 @@
+logs/
+plugins/
+config/
+.env
+dags/model/
+__pycache__/
